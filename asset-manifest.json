@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/stikom-valley.github.io/static/css/main.af66d4d9.chunk.css",
-    "main.js": "/stikom-valley.github.io/static/js/main.83e242e0.chunk.js",
-    "main.js.map": "/stikom-valley.github.io/static/js/main.83e242e0.chunk.js.map",
-    "runtime-main.js": "/stikom-valley.github.io/static/js/runtime-main.75bf9645.js",
-    "runtime-main.js.map": "/stikom-valley.github.io/static/js/runtime-main.75bf9645.js.map",
-    "static/js/2.60931005.chunk.js": "/stikom-valley.github.io/static/js/2.60931005.chunk.js",
-    "static/js/2.60931005.chunk.js.map": "/stikom-valley.github.io/static/js/2.60931005.chunk.js.map",
-    "static/js/3.6916a28b.chunk.js": "/stikom-valley.github.io/static/js/3.6916a28b.chunk.js",
-    "static/js/3.6916a28b.chunk.js.map": "/stikom-valley.github.io/static/js/3.6916a28b.chunk.js.map",
-    "index.html": "/stikom-valley.github.io/index.html",
-    "static/css/main.af66d4d9.chunk.css.map": "/stikom-valley.github.io/static/css/main.af66d4d9.chunk.css.map",
-    "static/js/2.60931005.chunk.js.LICENSE.txt": "/stikom-valley.github.io/static/js/2.60931005.chunk.js.LICENSE.txt",
-    "static/media/logo.59d338b8.png": "/stikom-valley.github.io/static/media/logo.59d338b8.png"
+    "main.css": "/static/css/main.af66d4d9.chunk.css",
+    "main.js": "/static/js/main.f44520cb.chunk.js",
+    "main.js.map": "/static/js/main.f44520cb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.36478764.js",
+    "runtime-main.js.map": "/static/js/runtime-main.36478764.js.map",
+    "static/js/2.86f652a0.chunk.js": "/static/js/2.86f652a0.chunk.js",
+    "static/js/2.86f652a0.chunk.js.map": "/static/js/2.86f652a0.chunk.js.map",
+    "static/js/3.3a428c7c.chunk.js": "/static/js/3.3a428c7c.chunk.js",
+    "static/js/3.3a428c7c.chunk.js.map": "/static/js/3.3a428c7c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.af66d4d9.chunk.css.map": "/static/css/main.af66d4d9.chunk.css.map",
+    "static/js/2.86f652a0.chunk.js.LICENSE.txt": "/static/js/2.86f652a0.chunk.js.LICENSE.txt",
+    "static/media/logo.59d338b8.png": "/static/media/logo.59d338b8.png",
+    "static/media/naruto_song.dedcdac3.mp3": "/static/media/naruto_song.dedcdac3.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.75bf9645.js",
-    "static/js/2.60931005.chunk.js",
+    "static/js/runtime-main.36478764.js",
+    "static/js/2.86f652a0.chunk.js",
     "static/css/main.af66d4d9.chunk.css",
-    "static/js/main.83e242e0.chunk.js"
+    "static/js/main.f44520cb.chunk.js"
   ]
 }
